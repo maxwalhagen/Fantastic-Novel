@@ -1,9 +1,0 @@
-TestMetod()
-{
-	thisVariable = something;
-
-
-	....
-	...
-	....
-}
