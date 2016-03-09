@@ -1,0 +1,9 @@
+TestMetod()
+{
+	thisVariable = something;
+
+
+	....
+	...
+	....
+}
